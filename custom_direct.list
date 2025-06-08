@@ -5,3 +5,7 @@ DOMAIN-SUFFIX,ypojie.com
 DOMAIN-SUFFIX,yrxitong.com
 DOMAIN-SUFFIX,xiuxitong.com
 
+
+# 域名匹配
+DOMAIN,sf16-sg-default.akamaized.net
+
