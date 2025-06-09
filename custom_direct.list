@@ -4,7 +4,9 @@
 DOMAIN-SUFFIX,ypojie.com
 DOMAIN-SUFFIX,yrxitong.com
 DOMAIN-SUFFIX,xiuxitong.com
+DOMAIN-SUFFIX,czzy77.com
+DOMAIN-SUFFIX,czzymovie.com
 
 # 域名关键词匹配
-
+DOMAIN-KEYWORD,sg-default.akamaized.net
 
