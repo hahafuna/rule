@@ -7,8 +7,7 @@ DOMAIN-SUFFIX,xiuxitong.com
 DOMAIN-SUFFIX,czzy77.com
 DOMAIN-SUFFIX,czzymovie.com
 
-# 域名匹配
-DOMAIN,sf16-sg-default.akamaized.net
-DOMAIN,p16-sg-default.akamaized.net
+# 域名关键词匹配
+DOMAIN-KEYWORD,sg-default.akamaized.net
 
 
