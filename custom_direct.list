@@ -8,5 +8,7 @@ DOMAIN-SUFFIX,czzy77.com
 DOMAIN-SUFFIX,czzymovie.com
 
 # 域名匹配
+DOMAIN,sf16-sg-default.akamaized.net
+DOMAIN,p16-sg-default.akamaized.net
 
 
